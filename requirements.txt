@@ -1,0 +1,8 @@
+django-google-maps
+mysqlclient
+pillow
+django-tinymce
+django-filer
+django-rest-framework
+markdown
+django-filter
